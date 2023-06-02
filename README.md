@@ -1,5 +1,8 @@
 # ilacTakip-Appstore
 İlaç Takip
+****Design Pattern****
+-Viper
+
 
 ****Package Dependencies****
 
