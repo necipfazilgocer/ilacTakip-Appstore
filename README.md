@@ -1,5 +1,4 @@
 # ilacTakip-Appstore
-İlaç Takip
 
 ****Design Pattern****
 
