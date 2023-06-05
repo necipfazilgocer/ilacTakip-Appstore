@@ -1,5 +1,5 @@
 # ilacTakip-Appstore
-![Profil Resmi](https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Ffoursquare.com%2Filayda52d&psig=AOvVaw1nYY0oQv5nQ77D-IpVVasy&ust=1686094601013000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCbj4Cmrf8CFQAAAAAdAAAAABAE)
+![Profil Resmi](https://tr.wikipedia.org/wiki/Galatasaray_%28futbol_tak%C4%B1m%C4%B1%29#/media/Dosya:Galatasaray_Star_Logo.png)
 
 ****Design Pattern****
 
