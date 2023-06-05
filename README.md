@@ -1,5 +1,5 @@
 # ilacTakip-Appstore
-
+![Açıklama](https://necipfazilgocer.blogspot.com/2023/06/blog-post.html)
 ****Design Pattern****
 
 -Viper
@@ -18,7 +18,7 @@
 -SDWebImage
 
 -SideMenu
-![Açıklama](https://necipfazilgocer.blogspot.com/2023/06/blog-post.html)
+
 
 
 
