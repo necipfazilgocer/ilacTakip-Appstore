@@ -1,5 +1,5 @@
 # ilacTakip-Appstore
-![Örnek Resim](https://example.com/resim.png)
+![Örnek Resim](https://necipfazilgocer.blogspot.com/2023/06/blog-post.html)
 ****Design Pattern****
 
 -Viper
