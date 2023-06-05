@@ -1,5 +1,5 @@
 # ilacTakip-Appstore
-![Açıklama](https://necipfazilgocer.blogspot.com/2023/06/blog-post.html)
+![Açıklama](Simulator Screenshot - iPhone 14 Pro Max - 2023-04-15 at 13.23.12.png)
 ****Design Pattern****
 
 -Viper
