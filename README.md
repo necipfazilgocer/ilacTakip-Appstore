@@ -1,10 +1,8 @@
 # ilacTakip-Appstore
 
-
 ****Design Pattern****
 
 -Viper
-
 
 ****Package Dependencies****
 
@@ -19,6 +17,10 @@
 -SDWebImage
 
 -SideMenu
+
+****Data Storage****
+
+-Firebase
 
 ![Simulator Screenshot - iPhone 14 Pro Max - 2023-04-15 at 13 23 12](https://github.com/necipfazilgocer/ilacTakip-Appstore/assets/114177524/30ae74ea-707e-4710-9dbb-d89ddd756231)
 
