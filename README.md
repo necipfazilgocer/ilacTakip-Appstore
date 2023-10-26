@@ -1,6 +1,6 @@
 
 # ilacTakip-Appstore
-https://apps.apple.com/tr/app/i-la%C3%A7-takip/id6447783614?l=tr
+Uygulama Linki:  https://apps.apple.com/tr/app/i-la%C3%A7-takip/id6447783614?l=tr
 
 ****Design Pattern****
 
