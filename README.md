@@ -24,8 +24,9 @@ Uygulama Linki:  https://apps.apple.com/tr/app/i-la%C3%A7-takip/id6447783614?l=t
 
 -Firebase
 
-<img width="466" alt="Ekran Resmi 2023-06-09 02 12 03" src="https://github.com/necipfazilgocer/ilacTakip-Appstore/assets/114177524/ed378c58-f55b-4cdd-997e-5216c476dd8f">
-<img width="466" alt="Ekran Resmi 2023-06-09 02 14 13" src="https://github.com/necipfazilgocer/ilacTakip-Appstore/assets/114177524/4de01fad-bccd-4bb7-bc58-c32caa41eb9d">
-<img width="466" alt="Ekran Resmi 2023-06-09 02 13 02" src="https://github.com/necipfazilgocer/ilacTakip-Appstore/assets/114177524/c69ce4fc-30cd-4a72-95d8-0a287cf53c76">
-<img width="466" alt="Ekran Resmi 2023-06-09 02 12 27" src="https://github.com/necipfazilgocer/ilacTakip-Appstore/assets/114177524/92756d5a-b2ba-445e-bc1d-6e8d2b0191d6">
+![4](https://github.com/user-attachments/assets/881aaadc-792f-4011-ab72-0456d0ad2db1)
+![3](https://github.com/user-attachments/assets/d585c536-0c38-48c3-9ec8-1d1633f5e7b9)
+![2](https://github.com/user-attachments/assets/5c7e73be-7657-46bc-9b6d-95e89c975027)
+![1](https://github.com/user-attachments/assets/ae3572cd-86d2-4f12-964c-9386e30ebe0b)
+
 
